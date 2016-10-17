@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-6">
             <div class="panel panel-default">                
                 <ol class="breadcrumb panel-heading">
                     <li><a href="{{ route('produto.index') }}">produtos</a></li>
